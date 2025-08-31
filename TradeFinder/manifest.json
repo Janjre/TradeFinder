@@ -1,0 +1,13 @@
+{
+  "uuid": "9410bc2c-146f-4096-98b5-b0d9314d8ce8",
+  "plugin_name": "TradeFinder",
+  "plugin_author": "HushedCandle753",
+  "plugin_description": "My amazing plugin description that I forgot to change for some reason.",
+  "plugin_version": "1.0.0",
+  "game_version": "1.21.101",
+  "supported_game_version_ranges": [
+    "0.0.0-9.99.9"
+  ],
+  "runtime_version": 4,
+  "target_assembly": "TradeFinder.dll"
+}

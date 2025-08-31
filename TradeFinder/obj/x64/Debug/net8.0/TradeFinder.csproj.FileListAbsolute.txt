@@ -1,0 +1,15 @@
+C:\Users\ms\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\Plugins\makingPlugins\TradeFinder\TradeFinder\bin\x64\Debug\net8.0\TradeFinder.deps.json
+C:\Users\ms\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\Plugins\makingPlugins\TradeFinder\TradeFinder\bin\x64\Debug\net8.0\TradeFinder.dll
+C:\Users\ms\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\Plugins\makingPlugins\TradeFinder\TradeFinder\bin\x64\Debug\net8.0\TradeFinder.pdb
+C:\Users\ms\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\Plugins\makingPlugins\TradeFinder\TradeFinder\bin\x64\Debug\net8.0\OnixRuntime.dll
+C:\Users\ms\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\Plugins\makingPlugins\TradeFinder\TradeFinder\bin\x64\Debug\net8.0\OnixRuntime.xml
+C:\Users\ms\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\Plugins\makingPlugins\TradeFinder\TradeFinder\obj\x64\Debug\net8.0\TradeFinder.csproj.AssemblyReference.cache
+C:\Users\ms\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\Plugins\makingPlugins\TradeFinder\TradeFinder\obj\x64\Debug\net8.0\TradeFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ms\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\Plugins\makingPlugins\TradeFinder\TradeFinder\obj\x64\Debug\net8.0\TradeFinder.AssemblyInfoInputs.cache
+C:\Users\ms\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\Plugins\makingPlugins\TradeFinder\TradeFinder\obj\x64\Debug\net8.0\TradeFinder.AssemblyInfo.cs
+C:\Users\ms\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\Plugins\makingPlugins\TradeFinder\TradeFinder\obj\x64\Debug\net8.0\TradeFinder.csproj.CoreCompileInputs.cache
+C:\Users\ms\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\Plugins\makingPlugins\TradeFinder\TradeFinder\obj\x64\Debug\net8.0\TradeFin.B110EC8B.Up2Date
+C:\Users\ms\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\Plugins\makingPlugins\TradeFinder\TradeFinder\obj\x64\Debug\net8.0\TradeFinder.dll
+C:\Users\ms\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\Plugins\makingPlugins\TradeFinder\TradeFinder\obj\x64\Debug\net8.0\refint\TradeFinder.dll
+C:\Users\ms\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\Plugins\makingPlugins\TradeFinder\TradeFinder\obj\x64\Debug\net8.0\TradeFinder.pdb
+C:\Users\ms\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\Plugins\makingPlugins\TradeFinder\TradeFinder\obj\x64\Debug\net8.0\ref\TradeFinder.dll
