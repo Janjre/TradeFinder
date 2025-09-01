@@ -13,3 +13,4 @@ C:\Users\ms\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingS
 C:\Users\ms\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\Plugins\makingPlugins\TradeFinder\TradeFinder\obj\x64\Debug\net8.0\refint\TradeFinder.dll
 C:\Users\ms\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\Plugins\makingPlugins\TradeFinder\TradeFinder\obj\x64\Debug\net8.0\TradeFinder.pdb
 C:\Users\ms\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\Plugins\makingPlugins\TradeFinder\TradeFinder\obj\x64\Debug\net8.0\ref\TradeFinder.dll
+C:\Users\ms\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\Plugins\makingPlugins\TradeFinder\TradeFinder\obj\x64\Debug\net8.0\TradeFinder.sourcelink.json

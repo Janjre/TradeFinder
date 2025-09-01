@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TradeFinder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1fb7207309b20261f911f0a04ba04f7b35472d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("TradeFinder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TradeFinder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
